@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/30 13:44:50.000.094,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/30 13:50:59.000.290,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/30 14:07:44.000.417,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/15 09:16:24.000.042,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/25 11:37:31.000.289,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/25 14:56:26.000.408,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/25 21:36:17.000.610,D:\Sistema\TesteDelphiDownload\untPrincipal.pas=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/25 21:36:17.000.610,D:\Sistema\TesteDelphiDownload\untPrincipal.dfm=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/25 21:36:29.000.517,D:\Sistema\TesteDelphiDownload\Download.dproj=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/05/26 18:09:46.315,=D:\Sistema\TesteDelphiDownload\Unit1.pas</Transaction>
+    <Transaction>2022/05/26 19:42:41.957,D:\Sistema\TesteDelphiDownload\untMensagem.pas=D:\Sistema\TesteDelphiDownload\Unit1.pas</Transaction>
+    <Transaction>2022/05/26 19:42:41.957,D:\Sistema\TesteDelphiDownload\untMensagem.dfm=D:\Sistema\TesteDelphiDownload\Unit1.dfm</Transaction>
+    <Transaction>2022/05/27 09:10:22.484,=D:\Sistema\TesteDelphiDownload\Unit1.pas</Transaction>
+    <Transaction>2022/05/27 09:23:18.140,D:\Sistema\TesteDelphiDownload\untDataModulo.dfm=D:\Sistema\TesteDelphiDownload\Unit1.dfm</Transaction>
+    <Transaction>2022/05/27 09:23:18.140,D:\Sistema\TesteDelphiDownload\untDataModulo.pas=D:\Sistema\TesteDelphiDownload\Unit1.pas</Transaction>
+    <Transaction>2022/05/27 10:32:55.684,=D:\Sistema\TesteDelphiDownload\Unit1.pas</Transaction>
+    <Transaction>2022/05/27 10:41:06.740,D:\Sistema\TesteDelphiDownload\untHistoricoDownload.pas=D:\Sistema\TesteDelphiDownload\Unit1.pas</Transaction>
+    <Transaction>2022/05/27 10:41:06.740,D:\Sistema\TesteDelphiDownload\untHistoricoDownload.dfm=D:\Sistema\TesteDelphiDownload\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
